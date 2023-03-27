@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\bin\Debug\net6.0\DzanNewsMVC.DataModel.deps.json
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\bin\Debug\net6.0\DzanNewsMVC.DataModel.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\bin\Debug\net6.0\ref\DzanNewsMVC.DataModel.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\bin\Debug\net6.0\DzanNewsMVC.DataModel.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\DzanNewsMVC.DataModel.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\DzanNewsMVC.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\DzanNewsMVC.DataModel.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\DzanNewsMVC.DataModel.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\DzanNewsMVC.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\DzanNewsMVC.DataModel.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\ref\DzanNewsMVC.DataModel.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\DzanNewsMVC.DataModel.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\bin\Debug\net6.0\DzanNewsMVC.DataModel.deps.json
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\bin\Debug\net6.0\DzanNewsMVC.DataModel.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\bin\Debug\net6.0\ref\DzanNewsMVC.DataModel.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\bin\Debug\net6.0\DzanNewsMVC.DataModel.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\DzanNewsMVC.DataModel.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\DzanNewsMVC.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\DzanNewsMVC.DataModel.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\DzanNewsMVC.DataModel.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\DzanNewsMVC.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\DzanNewsMVC.DataModel.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\ref\DzanNewsMVC.DataModel.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.DataModel\obj\Debug\net6.0\DzanNewsMVC.DataModel.pdb

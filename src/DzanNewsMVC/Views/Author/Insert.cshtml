@@ -1,0 +1,39 @@
+﻿@model DzanNewsMVC.Models.Authors.InsertAuthorViewModel
+
+<form asp-action="Insert" method="post" class="form-horizontal" role="form">
+
+    <h4>Unesite novu kategoriju</h4>
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="FirstName" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="FirstName" class="form-control" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">3
+        <label asp-for="LastName" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="LastName" class="form-control" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="BirthDate" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input type="date" asp-for="BirthDate" class="form-control" />
+            <span asp-validation-for="BirthDate" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-5">
+            <input type="submit" class="btn btn-primary" value="Sacuvaj" />
+        </div>
+    </div>
+
+</form>

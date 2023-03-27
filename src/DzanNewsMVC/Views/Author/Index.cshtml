@@ -1,0 +1,34 @@
+﻿@using DzanNewsMVC.Models.Authors
+
+@model IEnumerable<AuthorViewModel>
+
+
+<p class="button"><a class="btn btn-primary" asp-controller="Author" asp-action="Insert">Unesi novi</a></p>
+
+@if (Model != null)
+{
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Last Name</th>
+                <th>Birth Date</th>
+                <th>Details</th>
+            
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var r in Model)
+            {
+                <tr>
+                    <td>@r.Id</td>
+                    <td>@r.FirstName</td>
+                    <td>@r.LastName</td>
+                    <td>@r.BirthDate</td>
+                    <td><a asp-controller="Author" asp-action="Detail" asp-route-id="@r.Id">Detail</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

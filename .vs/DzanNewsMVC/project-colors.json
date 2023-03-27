@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3e3b2ce4-2dbf-4f3d-8f9d-1f798ee56ded": {
+      "ProjectGuid": "3e3b2ce4-2dbf-4f3d-8f9d-1f798ee56ded",
+      "DisplayName": "DzanNewsMVC",
+      "ColorIndex": 0
+    },
+    "c79245a7-6335-43ea-86fc-8e63b3ae2a4e": {
+      "ProjectGuid": "c79245a7-6335-43ea-86fc-8e63b3ae2a4e",
+      "DisplayName": "DzanNewsMVC.DataModel",
+      "ColorIndex": 1
+    },
+    "9f5317c9-87a8-4a7a-9b77-7b43a4c27a96": {
+      "ProjectGuid": "9f5317c9-87a8-4a7a-9b77-7b43a4c27a96",
+      "DisplayName": "DzanNewsMVC.Resource",
+      "ColorIndex": 2
+    },
+    "1e637f94-b50f-4e60-9f7a-9ee2e4e1ea1c": {
+      "ProjectGuid": "1e637f94-b50f-4e60-9f7a-9ee2e4e1ea1c",
+      "DisplayName": "DzanNewsMVC.ServiceInterfaces",
+      "ColorIndex": 3
+    },
+    "4daa265c-23ad-449f-94e9-5257aa1c3ae8": {
+      "ProjectGuid": "4daa265c-23ad-449f-94e9-5257aa1c3ae8",
+      "DisplayName": "DzanNewsMVC.Services",
+      "ColorIndex": 4
+    },
+    "7c852dd2-7931-4184-b93c-3f90b90f9645": {
+      "ProjectGuid": "7c852dd2-7931-4184-b93c-3f90b90f9645",
+      "DisplayName": "DzanNewsMVC.Services.Interfaces",
+      "ColorIndex": 5
+    },
+    "2d181e03-fc87-4e84-a239-c632b70fc673": {
+      "ProjectGuid": "2d181e03-fc87-4e84-a239-c632b70fc673",
+      "DisplayName": "DzanNewsMVC",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

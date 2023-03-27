@@ -1,0 +1,23 @@
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Resource\bin\Debug\net6.0\DzanNewsMVC.Resource.deps.json
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Resource\bin\Debug\net6.0\DzanNewsMVC.Resource.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Resource\bin\Debug\net6.0\ref\DzanNewsMVC.Resource.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Resource\bin\Debug\net6.0\DzanNewsMVC.Resource.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\DzanNewsMVC.Resource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\DzanNewsMVC.Resource.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\DzanNewsMVC.Resource.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\DzanNewsMVC.Resource.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\DzanNewsMVC.Resource.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\ref\DzanNewsMVC.Resource.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\DzanNewsMVC.Resource.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Resource\bin\Debug\net6.0\DzanNewsMVC.Resource.deps.json
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Resource\bin\Debug\net6.0\DzanNewsMVC.Resource.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Resource\bin\Debug\net6.0\ref\DzanNewsMVC.Resource.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Resource\bin\Debug\net6.0\DzanNewsMVC.Resource.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\DzanNewsMVC.Resource.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\DzanNewsMVC.Resource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\DzanNewsMVC.Resource.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\DzanNewsMVC.Resource.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\DzanNewsMVC.Resource.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\DzanNewsMVC.Resource.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\ref\DzanNewsMVC.Resource.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Resource\obj\Debug\net6.0\DzanNewsMVC.Resource.pdb

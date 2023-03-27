@@ -1,0 +1,34 @@
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\DzanNewsMVC.Services.deps.json
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\DzanNewsMVC.Services.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\ref\DzanNewsMVC.Services.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\DzanNewsMVC.Services.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\ref\DzanNewsMVC.Services.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\DzanNewsMVC.DataModel.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\DzanNewsMVC.Services.Interfaces.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\DzanNewsMVC.Services.Interfaces.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\DzanNewsMVC.DataModel.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.csproj.CopyComplete
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\DzanNewsMVC.Services.deps.json
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\DzanNewsMVC.Services.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\ref\DzanNewsMVC.Services.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\DzanNewsMVC.Services.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\DzanNewsMVC.DataModel.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\DzanNewsMVC.Services.Interfaces.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\DzanNewsMVC.Services.Interfaces.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\bin\Debug\net6.0\DzanNewsMVC.DataModel.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.csproj.CopyComplete
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\ref\DzanNewsMVC.Services.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNewsMVC\src\DzanNewsMVC.Services\obj\Debug\net6.0\DzanNewsMVC.Services.pdb
